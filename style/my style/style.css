@@ -1,0 +1,134 @@
+main {
+  background: #000000;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.main-screen {
+  background:center/cover no-repeat;
+    background-color: #000000;
+  font-size: x-large;
+  font-weight: bold;
+}
+.noshow{
+  display: none;
+}
+.catalog {
+  background-color: #8B0000;
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+.catalog .catalog-text {
+  margin-bottom: 5vh;
+}
+.catalog .osaka {
+  background: url("../../img/osaka.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .kioto {
+  background: url("../../img/kioto.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .my {
+  background: url("../../img/my.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .serge {
+  background: url("../../img/serge.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .sveta {
+  background: url("../../img/sveta.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .fonar {
+  background: url("../../img/fonar.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .put {
+  background: url("../../img/put.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .reca {
+  background: url("../../img/reca.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+
+.catalog .hram {
+  background: url("../../img/hram.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+
+.img {
+  height: 30vh;
+  margin-bottom: 10px;
+}
+
+.make-order {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+.about-us1 {
+  background-color: #8B0000;
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+
+.about-us2 {
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+.about-us2 .personal-text {
+  margin-bottom: 5vh;
+}
+
+.catalog-menu div, .personal div {
+  margin: 5px 0;
+}
+
+.joka {
+  height: 60vh;
+  background: url("../../img/joka.jpg") center/cover no-repeat;
+}
+.chel3 {
+  height: 40vh;
+  background: url("../../img/chel3.jpg") center/cover no-repeat;
+}
+.chel2 {
+  height: 40vh;
+  background: url("../../img/chel2.jpeg") center/cover no-repeat;
+}
+.chel1 {
+  height: 40vh;
+  background: url("../../img/chel1.png") center/cover no-repeat;
+}
+.gorod {
+  height: 30vh;
+  width: 50vh;
+  background: url("../../img/gorod1.jpg") center/cover no-repeat;
+}
+
+#gorod3 {
+  height: 30vh;
+  width: 50vh;
+}
+.gorod2 {
+  height: 25vh;
+  width: 40vh;
+}
+.babij {
+  background: url("../../img/babij.jpg") center/cover no-repeat;
+}
+.vital {
+  background: url("../../img/vital.jpg") center/cover no-repeat;
+}
+.guys {
+  background: url("../../img/vital.jpg") center/cover no-repeat;
+}
+
+
+/*# sourceMappingURL=style.css.map */
